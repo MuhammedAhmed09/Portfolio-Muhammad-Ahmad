@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "title": "Recipe App",
+    "description": "A meal recipe explorer built using React and TheMealDB API. Users can search meals, browse by category, and view full recipe details including ingredients and instructions.",
+    "technologies": "React, Tailwind CSS, TheMealDB API, React Router",
+    "image": "/images/recipe-app.png",
+    "demo": "https://recipe-app-alpha-murex.vercel.app/",
+    "github": "https://github.com/MuhammedAhmed09/Recipe-app"
+  }, 
+  {
+    "id": 1,
+    "title": "Shopping App",
+    "description": "A shopping web app built using React, Tailwind CSS, DummyJSON API, and features like cart, favorites, and product details.",
+    "technologies": "React, Tailwind CSS, DummyJSON API",
+    "image": "/images/shopping-app.png",
+    "demo": "https://shopping-app-five-eta.vercel.app/",
+    "github": "https://github.com/MuhammedAhmed09/shopping-app"
+  }
+]
