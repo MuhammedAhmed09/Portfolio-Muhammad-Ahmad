@@ -8,7 +8,7 @@ const contactDetails = [
   { icon: <FaPhone />, title: 'Mobile Number', text: '+20-10-9718-2681' },
   { icon: <IoLocationSharp />, title: 'Location', text: 'Egypt / Beheira / Abo-Hommos' },
   { icon: <MdEmail />, title: 'E-mail', text: 'muhammedahmedragab@gmail.com' },
-  { icon: <FaGlobe />, title: 'Website', text: <a href="https://muhammed-ahmed.vercel.app/" target="_blank" rel="noreferrer">My Portfolio</a> },
+  { icon: <FaGlobe />, title: 'Website', text: <a href="https://muhammad-ahmad-xi.vercel.app/" target="_blank" rel="noreferrer">My Portfolio</a> },
 ];
 
 const socialLinks = [
