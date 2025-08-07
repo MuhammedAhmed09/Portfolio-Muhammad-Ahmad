@@ -1,4 +1,4 @@
-import cv from '../../assets/Muhammad-Ahmad-FlowCV-Resume-20250705.pdf';
+import cv from '../../assets/Muhammad-Ahmed-Resume.pdf';
 
 const MyCv = () => {
   return (
