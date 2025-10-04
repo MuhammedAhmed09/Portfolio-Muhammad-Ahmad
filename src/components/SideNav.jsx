@@ -43,12 +43,14 @@ const SideNav = () => {
         </ul>
       </div>
 
-      <div className="lg:hidden fixed top-4 left-4 z-[999] text-white text-2xl">
-        {!isOpen ? (
-          <FaBars onClick={() => setIsOpen(true)} />
-        ) : (
-          <IoMdClose onClick={() => setIsOpen(false)} />
-        )}
+      <div className="lg:hidden fixed p-2 z-[999] text-[#80ed99]/70 text-xl">
+        <button className='cursor-pointer bg-gray-100/10 rounded-full p-2'>
+          {!isOpen ? (
+            <FaBars onClick={() => setIsOpen(true)} />
+          ) : (
+            <IoMdClose onClick={() => setIsOpen(false)} />
+          )}
+        </button>
       </div>
     </>
   );
