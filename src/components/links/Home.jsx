@@ -14,7 +14,7 @@ const Home = () => {
           <hr className='w-[150px] h-[10px] border-none bg-[#80ed99] rounded-tr-sm rounded-br-sm'/>
           <hr className='w-[10px] h-[120px] rounded-bl-sm bg-[#80ed99] border-none rounded-br-sm'/>
         </div>
-        <img src="\B7R.jpg" className='w-[90%] p-7' alt="My-Photo"/>
+        <img src="\Muahmmed-Ahmed.jpg" className='w-[90%] p-7' alt="My-Photo"/>
         <div className='absolute -left-5 bottom-0 rotate-[-90deg]'>
           <hr className='w-[150px] h-[10px] border-none bg-[#80ed99] rounded-tr-sm rounded-br-sm'/>
           <hr className='w-[10px] h-[120px] rounded-bl-sm bg-[#80ed99] border-none rounded-br-sm'/>

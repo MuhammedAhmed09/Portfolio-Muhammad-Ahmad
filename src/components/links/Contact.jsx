@@ -23,7 +23,7 @@ const Contact = () => {
     event.preventDefault();
     const formData = new FormData(event.target);
 
-    formData.append("access_key", "708bc748-2ea4-40c1-afd8-dd7d6e3104d8");
+    formData.append("access_key", import.meta.env.GMAIL_API_ACCESS_KEY);
 
     const object = Object.fromEntries(formData);
     const json = JSON.stringify(object);
