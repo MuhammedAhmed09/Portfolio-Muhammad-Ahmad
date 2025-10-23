@@ -16,5 +16,14 @@
     "image": "/images/shopping-app.png",
     "demo": "https://shopping-app-five-eta.vercel.app/",
     "github": "https://github.com/MuhammedAhmed09/shopping-app"
+  }, 
+  {
+    "id": 2,
+    "title": "Parfum App",
+    "description": "A shopping web app built using React, Tailwind CSS, React Router Dom, Free Fake API, and features like cart, and product details.",
+    "technologies": "React, Tailwind CSS, Free Fake API",
+    "image": "/images/parfum-app.png",
+    "demo": "https://parfum-tamplate.vercel.app/",
+    "github": "https://github.com/MuhammedAhmed09/Parfum-Tamplate"
   }
 ]
